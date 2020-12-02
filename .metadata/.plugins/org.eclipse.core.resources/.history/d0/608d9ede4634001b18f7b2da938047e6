@@ -1,0 +1,18 @@
+package com.elissandro.cadCliente.resources.exceptions;
+
+import javax.servlet.http.HttpServletRequest;
+
+import org.springframework.http.ResponseEntity;
+import org.springframework.web.bind.annotation.ControllerAdvice;
+import org.springframework.web.bind.annotation.ExceptionHandler;
+
+import com.elissandro.cadCliente.services.exceptions.EntityNotFoundException;
+
+@ControllerAdvice
+public class ResourceExceptionHandler {
+	@ExceptionHandler(EntityNotFoundException.class)
+	public ResponseEntity<StandardError> entityNotFound(EntityNotFoundException e, HttpServletRequest request){
+		StandardError err;
+	}
+	
+}
