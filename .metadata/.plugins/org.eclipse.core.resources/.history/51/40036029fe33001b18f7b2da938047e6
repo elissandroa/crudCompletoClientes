@@ -1,0 +1,18 @@
+package com.elissandro.cadCliente.services;
+
+import java.util.List;
+
+import org.springframework.stereotype.Service;
+
+import com.elissandro.cadCliente.entity.Client;
+import com.elissandro.cadCliente.repositories.ClientRepository;
+
+@Service
+public class ClientService {
+	
+	ClientRepository respository;
+	
+	public List<Client> findAll(){
+		
+	}
+}

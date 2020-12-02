@@ -1,0 +1,16 @@
+package com.elissandro.cadCliente.dto;
+
+public class ClientDTO {
+	
+	private Long id;
+	private String name;
+	private String cpf;
+	private Double income;
+	private Instant birthDate;
+	private Integer children;
+	
+	
+	
+	
+	
+}
