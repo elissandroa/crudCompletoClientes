@@ -46,7 +46,7 @@ public class ClientService {
 		return new ClientDTO(entity);
 	}
 	
-	@Transactional
+	@Transactional(readOnly = true)
 	public ClientDTO update(Long id, ClientDTO dto) {
 		try {
 			Client entity = repository.getOne(id);
@@ -61,5 +61,6 @@ public class ClientService {
 		catch (EntityNotFoundException e) {
 			throw new ResourceNotFoundException("Id not found "+id);
 		}
+		
 	}
 }

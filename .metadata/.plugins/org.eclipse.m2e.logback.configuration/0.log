@@ -734,3 +734,28 @@
 2020-12-02 00:30:33,192 [Worker-179: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
 2020-12-02 00:30:33,194 [Worker-179: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2020-12-02 00:30:33,194 [Worker-179: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projetos BootCamp\Atividade1\backend\src\test\resources
+2020-12-02 11:19:05,478 [Worker-195: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-02 11:19:05,479 [Worker-195: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-12-02 11:19:05,480 [Worker-195: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-12-02 11:19:05,482 [Worker-195: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-02 11:19:05,483 [Worker-195: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projetos BootCamp\Atividade1\backend\src\test\resources
+2020-12-02 11:19:30,662 [Worker-197: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-02 11:19:30,663 [Worker-197: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-12-02 11:19:30,663 [Worker-197: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-12-02 11:19:30,665 [Worker-197: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-02 11:19:30,665 [Worker-197: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projetos BootCamp\Atividade1\backend\src\test\resources
+2020-12-02 11:25:32,431 [Worker-196: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-02 11:25:32,432 [Worker-196: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-12-02 11:25:32,434 [Worker-196: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-12-02 11:25:32,436 [Worker-196: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-02 11:25:32,436 [Worker-196: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projetos BootCamp\Atividade1\backend\src\test\resources
+2020-12-02 11:25:42,304 [Worker-199: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-02 11:25:42,305 [Worker-199: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-12-02 11:25:42,306 [Worker-199: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-12-02 11:25:42,308 [Worker-199: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-02 11:25:42,308 [Worker-199: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projetos BootCamp\Atividade1\backend\src\test\resources
+2020-12-02 11:35:35,838 [Worker-205: Launching backend - CadClienteApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-02 11:35:35,838 [Worker-205: Launching backend - CadClienteApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-12-02 11:35:35,840 [Worker-205: Launching backend - CadClienteApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-12-02 11:35:35,842 [Worker-205: Launching backend - CadClienteApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-02 11:35:35,843 [Worker-205: Launching backend - CadClienteApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projetos BootCamp\Atividade1\backend\src\test\resources
