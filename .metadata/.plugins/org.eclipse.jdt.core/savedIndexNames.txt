@@ -22,7 +22,6 @@ INDEX VERSION 1.131+D:\Projetos BootCamp\Atividade1\.metadata\.plugins\org.eclip
 894066039.index
 31243377.index
 1525841609.index
-1965174767.index
 2101105513.index
 2085574610.index
 3657129010.index
