@@ -1,5 +1,0 @@
-package com.elissandro.cadCliente.resources.exceptions;
-
-public class StandardError {
-
-}
